@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sbcuh.github.io/rgZ/sitemap.rgZ.gz
